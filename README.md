@@ -1,0 +1,1 @@
+# kitpa-static-data
